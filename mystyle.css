@@ -5,3 +5,8 @@ h1 {
 p {
     color:darkblue;
 }
+#whole-page {
+    background-color: lightgray;
+    text-align: center;
+}
+
