@@ -5,8 +5,9 @@ h1 {
 p {
     color:darkblue;
 }
-#whole-page {
+body {
     background-color: lightgray;
     text-align: center;
+    font-family: monospace;
 }
 
